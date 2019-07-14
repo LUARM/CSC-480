@@ -18,4 +18,4 @@ Pushes controls and randomly generated environment to the view
 View Package - display game state
 Draws the state of the model for our viewing pleasure
 
-  	Controls: R sets player control, N slows down, M speeds up, WASD for player controls.
+    Controls: R sets player control, N slows down, M speeds up, WASD for player controls.
